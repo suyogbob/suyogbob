@@ -3,7 +3,7 @@
 My name is Suyog Bobhate and I'm a Master's in Computer Science student at the University of Pennsylvania. I like working with Big Data and I've worked on several Data science, Machine learning and Software development projects. I'm currently looking for Full-time roles in these fields so if you like my work, feel free to reach out to me by email or LinkedIn.
 
 ## 🔭 Past Projects
-Many of my projects are in private repos due to University policies, but below is a list of some projects I've worked on.
+Many of my projects are in private repos due to University policies, but below is a list of some projects I've worked on. Feel free to reach out if you would like access to any private projects.
 ### Systems Software
 🌐 Automatic Synchronization for Compartmentalized C Programs (LLVM) [<img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/compartsync) <br>
 🌐 Web server and Microservices framework <br>
